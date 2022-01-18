@@ -41,9 +41,12 @@ ___
 [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shreyansh0322)
 ___
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
+                                                                                                                                                     
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
+ 
+ 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghShreyansh&layout=compact&hide=html&theme=blue-green" alt="SinghShreyansh" />
+                                                                                                                                                  
 
 
 
