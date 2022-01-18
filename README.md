@@ -47,7 +47,7 @@ ___
  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghShreyansh&layout=compact&hide=html&theme=blue-green" alt="SinghShreyansh" />
                                                                                                                                                   
-
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
 
 
 
