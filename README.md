@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shreyansh Singh 👋
+<h1 align="center">Hey, I'm Shreyansh Singh 👋 </h1>
 
 >I'm *Shreyansh* from **India** ,a 20 year old tech enthusiast. I do content on Development. I really enjoy learning languages and frameworks like React ,as well as work in Frontend💻.
 
