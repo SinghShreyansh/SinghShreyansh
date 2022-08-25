@@ -35,6 +35,8 @@ ___
 ___
 
  ## 🌐 Connect me -
+ My Resume - [Deedy_CV_Sem5Resume.pdf](https://github.com/SinghShreyansh/SinghShreyansh/files/9427016/Deedy_CV_Sem5Resume.pdf)
+
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/shreyansh0322)
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/SinghShreyansh)
