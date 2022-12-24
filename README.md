@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Shreyansh Singh 👋 </h1>
+<h1 align="center">Hey, I'm Shreyansh Singh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SinghShreyansh&label=Views&color=blue&style=for-the-badge" alt="Shreyansh Singh" /> </p>
 
 >I'm *Shreyansh* from **India** ,a 20 year old tech enthusiast. I do content on Development. I really enjoy learning languages and frameworks like React ,as well as work in Frontend💻.
 
@@ -8,7 +10,6 @@
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google ,Youtube and Stack Overflow 😪
 
- [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 ___
 
 ## 🛠 &nbsp;Tech Stack
