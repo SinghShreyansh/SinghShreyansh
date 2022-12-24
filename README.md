@@ -55,10 +55,11 @@ ___
 <br />
 <br />
 
-**Leetcode Stats:**
+ <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
+ 
+ **Leetcode Stats:**
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/shreyansh0322?theme=nord&font=baloo&extension=null&height=137&width=320)](https://leetcode.com/shreyansh0322)
- <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
  
                                                                                                                                                   
  
