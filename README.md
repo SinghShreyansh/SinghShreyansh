@@ -46,11 +46,20 @@ ___
 ___
 
                                                                                                                                                      
- <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
- 
+ **Github Stats:**
+
+<a href="https://github.com/BharatKammakatla">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SinghShreyansh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghShreyansh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+
+<br />
+<br />
+
+**Leetcode Stats:**
+
+[![Leetcode Stats](https://leetcode.card.workers.dev/shreyansh0322?theme=nord&font=baloo&extension=null&height=137&width=320)](https://leetcode.com/shreyansh0322)
  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
  
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghShreyansh&layout=compact&hide=html&theme=blue-green" alt="SinghShreyansh" />
                                                                                                                                                   
  
 
