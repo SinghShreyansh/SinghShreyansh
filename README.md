@@ -2,14 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SinghShreyansh&label=Views&color=blue&style=for-the-badge" alt="Shreyansh Singh" /> </p>
 
->I'm *Shreyansh* from **India** ,a 20 year old tech enthusiast. I do content on Development. I really enjoy learning languages and frameworks like React ,as well as work in Frontend💻.
+>I'm *Shreyansh* from **India** ,a 20 year old tech enthusiast. I do content on Development. I really enjoy learning languages and frameworks like React, Nextjs, Nestjs,as well as worked as Software Developer Intern💻.
 
-👩‍💻 Nowadays, I’m learning Python and creating projects on Reactjs.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google ,Youtube and Stack Overflow 😪
-
 ___
 
 ## 🛠 &nbsp;Tech Stack
@@ -36,8 +31,6 @@ ___
 ___
 
  ## 🌐 Connect me -
- My Resume - [Deedy_CV_Sem5Resume.pdf](https://github.com/SinghShreyansh/SinghShreyansh/files/9427016/Deedy_CV_Sem5Resume.pdf)
-
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/shreyansh0322)
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/SinghShreyansh)
@@ -49,18 +42,15 @@ ___
                                                                                                                                                      
  **Github Stats:**
 
-<a href="https://github.com/BharatKammakatla">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SinghShreyansh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghShreyansh&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
+<p align="center"<a href="https://github.com/SinghShreyansh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghShreyansh&langs_count=10&count_private=true&title_color=3382ed&text_color=ffffff&layout=compact&icon_color=3382ed&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+
+<p align="center"<a href="http://www.github.com/SinghShreyansh"><img src="https://github-readme-stats.vercel.app/api?username=SinghShreyansh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="SinghShreyansh's GitHub stats" /></a></p>
+
+<p align="center"<a href="http://www.github.com/SinghShreyansh"><img src="https://streak-stats.demolab.com/?user=SinghShreyansh&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SinghShreyansh&bg_color=0D1117&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
-<br />
-
- <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=SinghShreyansh&show_icons=true&theme=blue-green" alt="SinghShreyansh" />
- 
- **Leetcode Stats:**
-
-[![Leetcode Stats](https://leetcode.card.workers.dev/shreyansh0322?theme=nord&font=baloo&extension=null&height=137&width=320)](https://leetcode.com/shreyansh0322)
  
                                                                                                                                                   
  
