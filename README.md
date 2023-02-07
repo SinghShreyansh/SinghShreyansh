@@ -38,7 +38,20 @@ ___
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:2020.shreyansh.singh@ves.ac.in)
 [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shreyansh0322)
 ___
-
+<h2 align="left">Project Highlights:</h2>
+<div align="center">
+<a href="https://github.com/SinghShreyansh/Demeter--The-Farming-Assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=Demeter--The-Farming-Assistant&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
+</a> 
+<a href="https://github.com/SinghShreyansh/Project-Timesheet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=Project-Timesheet&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
+</a>
+<a href="https://github.com/SinghShreyansh/amazon-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=amazon-clone&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
+</a>  
+<a href="https://github.com/SinghShreyansh/audio-notes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=audio-notes&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
+</a>
                                                                                                                                                      
  **Github Stats:**
 
