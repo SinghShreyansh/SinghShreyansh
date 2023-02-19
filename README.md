@@ -40,8 +40,8 @@ ___
 ___
 <h2 align="left">Project Highlights:</h2>
 <div align="center">
-<a href="https://github.com/SinghShreyansh/Demeter--The-Farming-Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=Demeter--The-Farming-Assistant&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
+<a href="https://github.com/SinghShreyansh/Demeter-Farming_Assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=Demeter-Farming_Assistant&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
 </a> 
 <a href="https://github.com/SinghShreyansh/Project-Timesheet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=Project-Timesheet&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
