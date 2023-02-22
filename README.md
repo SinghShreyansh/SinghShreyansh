@@ -38,20 +38,7 @@ ___
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:2020.shreyansh.singh@ves.ac.in)
 [![Dev.io](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shreyansh0322)
 ___
-<h2 align="left">Project Highlights:</h2>
-<div align="center">
-<a href="https://github.com/SinghShreyansh/Demeter-Farming_Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=Demeter-Farming_Assistant&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
-</a> 
-<a href="https://github.com/SinghShreyansh/Project-Timesheet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=Project-Timesheet&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
-</a>
-<a href="https://github.com/SinghShreyansh/amazon-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=amazon-clone&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
-</a>  
-<a href="https://github.com/SinghShreyansh/audio-notes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinghShreyansh&repo=audio-notes&title_color=7496e6&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
-</a>
+
                                                                                                                                                      
  **Github Stats:**
 
@@ -59,9 +46,8 @@ ___
 
 <p align="center"<a href="http://www.github.com/SinghShreyansh"><img src="https://github-readme-stats.vercel.app/api?username=SinghShreyansh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true" alt="SinghShreyansh's GitHub stats" /></a></p>
 
-<p align="center"<a href="http://www.github.com/SinghShreyansh"><img src="https://streak-stats.demolab.com/?user=SinghShreyansh&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SinghShreyansh&bg_color=0D1117&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br />
  
